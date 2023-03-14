@@ -1,0 +1,13 @@
+{
+    "name": "My Mortgage",
+    "short_name": "My Mortgage",
+    "icons": [
+        {
+            "src": "https://irp.cdn-website.com/1005b8fc/dms3rep/multi/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone",
+    "start_url": "/?utm_source=homescreen"
+}
